@@ -1,3 +1,9 @@
+# THIS REPOSITORY HAS BEEN MOVED INTO `hydro-project/hydroflow`
+
+See here: https://github.com/hydro-project/hydroflow/tree/main/template/hydroflow_plus#readme
+
+---
+
 ## Getting Started
 This is a template for a Rust project that uses [Hydroflow+](http://github.com/hydro-project/hydroflow) for distributed services. To generate a project, run 
 
